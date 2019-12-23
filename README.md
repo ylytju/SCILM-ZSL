@@ -12,3 +12,7 @@ Download the data from [here](https://drive.google.com/open?id=1iExbrVdSFjm9UlSj
 # Run
 `AwA1.py` will give you both traditional ZSIC and generalized ZSIC with class-level attributes.
 
+# Results
+AwA1:
+![](https://github.com/ylytju/SCILM-ZSL/raw/results/AwA1.png)
+
