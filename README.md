@@ -14,5 +14,5 @@ Download the data from [here](https://drive.google.com/open?id=1iExbrVdSFjm9UlSj
 
 # Results
 AwA1:
-![](https://github.com/ylytju/SCILM-ZSL/raw/results/AwA1.png)
+![](https://github.com/ylytju/SCILM-ZSL/results/AwA1.png)
 
